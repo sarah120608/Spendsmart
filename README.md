@@ -87,7 +87,8 @@ spendsmart/
 
 ## 📸 Screenshots
 
-<img width="1178" height="1017" alt="image" src="https://github.com/user-attachments/assets/e1c49088-2dda-48c4-8150-fc796ba6d9a1" />
+<img width="1099" height="1016" alt="image" src="https://github.com/user-attachments/assets/ca182c9d-74f3-437e-9945-f777d4111b71" />
+
 
 ---
 
