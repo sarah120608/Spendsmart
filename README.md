@@ -3,7 +3,7 @@
 A simple, colorful, and responsive expense tracking web app built with **React + Vite**.
 
 ## 🌍 Live Demo
-🔗 [View Live on Vercel](https://spendsmart.vercel.app) <!-- Replace with your actual URL -->
+🔗 [View Live on Vercel](https://spendsmart-zeta.vercel.app/) <!-- Replace with your actual URL -->
 
 ---
 
@@ -87,7 +87,7 @@ spendsmart/
 
 ## 📸 Screenshots
 
-> Add your app screenshots here!
+<img width="1178" height="1017" alt="image" src="https://github.com/user-attachments/assets/e1c49088-2dda-48c4-8150-fc796ba6d9a1" />
 
 ---
 
