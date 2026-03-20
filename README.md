@@ -1,16 +1,102 @@
-# React + Vite
+# 💸 SpendSmart – Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, colorful, and responsive expense tracking web app built with **React + Vite**.
 
-Currently, two official plugins are available:
+## 🌍 Live Demo
+🔗 [View Live on Vercel](https://spendsmart.vercel.app) <!-- Replace with your actual URL -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ➕ Add expenses with name, amount & category
+- 🗑️ Delete expenses instantly
+- 📊 Category-wise spending breakdown
+- 🌍 Live currency converter (INR → USD, EUR, GBP, JPY & more)
+- 💰 Running total that updates in real-time
+- 📱 Fully responsive (mobile + desktop)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| React 18 | UI Framework |
+| Vite | Build Tool |
+| Frankfurter API | Live Currency Rates |
+| Vercel | Deployment |
+
+---
+
+## 🚀 Getting Started Locally
+
+### Prerequisites
+- Node.js (v18+)
+- npm
+
+### Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/YOUR_USERNAME/spendsmart.git
+
+# Go into the project
+cd spendsmart
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+---
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## ☁️ Deploy to Vercel
+
+```bash
+npm install -g vercel
+vercel --prod
+```
+
+---
+
+## 📁 Project Structure
+
+```
+spendsmart/
+├── index.html        # Main app file
+├── src/              # React source files
+├── public/           # Static assets
+├── package.json      # Dependencies
+└── vite.config.js    # Vite config
+```
+
+---
+
+## 📸 Screenshots
+
+> Add your app screenshots here!
+
+---
+
+## 🙌 Author
+
+Made with ❤️ by **sarah120608**
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
