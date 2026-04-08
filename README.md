@@ -1,6 +1,6 @@
 # 💸 SpendSmart – Expense Tracker
 
-A simple, colorful, and responsive expense tracking web app built with **React + Vite**.
+A simple, colorful, and responsive expense tracking web app built with **React + Vite** and used **Frankfurter api** to fetch live currency rate
 
 ## 🌍 Live Demo
 🔗 [View Live on Vercel](https://spendsmart-zeta.vercel.app/) <!-- Replace with your actual URL -->
